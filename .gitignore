@@ -72,6 +72,7 @@ crashlytics-build.properties
 
 # 容量が大きすぎるため無視
 Assets/_Barking_Dog/
+Assets/SteamVR/
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
